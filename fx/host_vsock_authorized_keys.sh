@@ -1,0 +1,1 @@
+/mnt/host_share/vsock-authorized-keys

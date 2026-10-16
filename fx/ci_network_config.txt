@@ -1,1 +1,0 @@
-/mnt/cloud_init_config/network-config
