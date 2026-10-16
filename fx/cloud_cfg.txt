@@ -1,1 +1,0 @@
-/etc/cloud/cloud.cfg
