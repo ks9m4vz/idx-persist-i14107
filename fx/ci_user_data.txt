@@ -1,0 +1,1 @@
+/mnt/cloud_init_config/user-data
